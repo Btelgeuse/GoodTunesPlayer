@@ -1,0 +1,23 @@
+{
+  "name": "goodtunesplayer",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Btelgeuse/GoodTunesPlayer#readme",
+  "bugs": {
+    "url": "https://github.com/Btelgeuse/GoodTunesPlayer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Btelgeuse/GoodTunesPlayer.git"
+  },
+  "license": "ISC",
+  "author": "Betelgeuse",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^35.0.0"
+  }
+}
